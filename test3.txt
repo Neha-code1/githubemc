@@ -1,4 +1,0 @@
-This is test3.txt file 
-violets are blue 
-rosaes are red
-i hate you
